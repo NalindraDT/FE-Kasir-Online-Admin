@@ -1,8 +1,10 @@
-# kasir_app
+# Aplikasi Kasir
 
-A new Flutter project.
+Repository ini berisi sebuah mini project yang bertujuan untuk memenuhi kesyaratan sertifikasi Junior Mobile Developer VSGA Komdigi.
 
-## Getting Started
+Repository ini merupakan bagian frontend dari mini project aplikasi kasir online sederhana yang untuk sementara hanya tersedia dalam mode admin, dimana di mode admin user dapat melihat, menambah, mengedit, menghapus produk sesuai keinginan.
+
+## Cara menjalankan
 
 This project is a starting point for a Flutter application.
 
